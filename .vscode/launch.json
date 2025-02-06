@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HestiaApplication<hestia>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ispan.hestia.HestiaApplication",
+            "projectName": "hestia",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
